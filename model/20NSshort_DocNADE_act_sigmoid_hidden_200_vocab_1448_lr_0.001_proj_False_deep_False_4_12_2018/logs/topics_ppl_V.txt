@@ -1,0 +1,1000 @@
+h_num: 0
+w_h_top_words_indx: [ 401  131  211  124  699 1071  959  933  229  934  806  104  689 1416
+  782 1347 1164  226  518  563]
+w_h_top_words:['effects', 'bout', 'chipset', 'bob', 'laserjet', 'release', 'play', 'performance', 'clinton', 'person', 'mike', 'big', 'knowing', 'wings', 'matt', 'understand', 'setup', 'clean', 'game', 'happy']
+----------------------------------------------------------------------
+h_num: 1
+w_h_top_words_indx: [ 832  138  818  239  758  369  810 1283 1308  309  519  963  913  152
+  389  371  349  752 1377 1425]
+w_h_top_words:['mother', 'brian', 'mit', 'color', 'made', 'double', 'mind', 'technology', 'tickets', 'dave', 'games', 'point', 'paper', 'bus', 'duo', 'doug', 'disclaimer', 'mach', 'ver', 'works']
+----------------------------------------------------------------------
+h_num: 2
+w_h_top_words_indx: [ 274  721  265 1248  621 1132  572   61  237  272 1112  787  806 1107
+  646  746  309 1211  571  109]
+w_h_top_words:['correctly', 'light', 'control', 'sun', 'info', 'sample', 'hear', 'article', 'code', 'correct', 'robert', 'maximum', 'mike', 'ring', 'isn', 'low', 'dave', 'specifically', 'health', 'bios']
+----------------------------------------------------------------------
+h_num: 3
+w_h_top_words_indx: [ 255  824 1130  234  618  136 1009   15 1092 1328  911  239  433 1262
+ 1141  178 1164  777 1424  876]
+w_h_top_words:['computer', 'monitor', 'sale', 'clue', 'industry', 'brand', 'processor', 'advance', 'respond', 'trident', 'pair', 'color', 'expansion', 'svga', 'screen', 'cassette', 'setup', 'market', 'working', 'oak']
+----------------------------------------------------------------------
+h_num: 4
+w_h_top_words_indx: [ 820  732  369  392  548  328  561  176  797 1083  924  270 1034  520
+  761  600  860  338  457  681]
+w_h_top_words:['model', 'logical', 'double', 'earth', 'great', 'details', 'happen', 'case', 'memory', 'request', 'patches', 'copy', 'question', 'gang', 'mail', 'ide', 'nice', 'diamond', 'faster', 'keys']
+----------------------------------------------------------------------
+h_num: 5
+w_h_top_words_indx: [ 361  172 1425 1427  196  828  360 1314  386 1114  636  384  909  564
+ 1214  625  830  880  606 1005]
+w_h_top_words:['doctor', 'cards', 'works', 'world', 'character', 'months', 'docs', 'title', 'due', 'roland', 'interested', 'drugs', 'pain', 'hard', 'speedstar', 'inject', 'moon', 'offer', 'illegal', 'problems']
+----------------------------------------------------------------------
+h_num: 6
+w_h_top_words_indx: [1173 1000  310  564 1434  931 1394  244  604  502  270  149 1033  329
+ 1130  878  249   65   81  347]
+w_h_top_words:['shipping', 'printer', 'david', 'hard', 'wrong', 'people', 'wanted', 'comment', 'iii', 'found', 'copy', 'bunch', 'quality', 'detector', 'sale', 'obo', 'compare', 'asked', 'bad', 'directly']
+----------------------------------------------------------------------
+h_num: 7
+w_h_top_words_indx: [ 364  497  886 1430  482   54  804 1421  118  578  391 1316  828  564
+  859 1388  826   97    9  999]
+w_h_top_words:['dod', 'form', 'oops', 'write', 'fix', 'apr', 'michael', 'words', 'blue', 'hey', 'early', 'today', 'months', 'hard', 'nhl', 'visual', 'montana', 'beat', 'adam', 'printed']
+----------------------------------------------------------------------
+h_num: 8
+w_h_top_words_indx: [ 257 1210  364 1036  872   11 1199  736 1415  715   81  367  573   17
+  803 1000   25  111  802 1175]
+w_h_top_words:['condition', 'special', 'dod', 'quick', 'number', 'add', 'soul', 'looked', 'windows', 'level', 'bad', 'dos', 'heard', 'advice', 'mhz', 'printer', 'alberta', 'bit', 'mfm', 'shooting']
+----------------------------------------------------------------------
+h_num: 9
+w_h_top_words_indx: [1130 1430  456 1228  556  141  540  911   32 1238  343  111  772 1069
+  902  543 1443 1058 1222  371]
+w_h_top_words:['sale', 'write', 'fast', 'stealth', 'guy', 'brown', 'good', 'pair', 'andre', 'stupid', 'difficult', 'bit', 'manuals', 'references', 'owner', 'government', 'years', 'recall', 'started', 'doug']
+----------------------------------------------------------------------
+h_num: 10
+w_h_top_words_indx: [ 607  848 1130 1202  165 1084 1139  761 1218  404  873  288  678 1385
+ 1352  276 1207  658  797 1164]
+w_h_top_words:['image', 'national', 'sale', 'source', 'calls', 'require', 'sci', 'mail', 'standard', 'electronics', 'numbers', 'crystal', 'kevin', 'views', 'university', 'cost', 'speak', 'jeff', 'memory', 'setup']
+----------------------------------------------------------------------
+h_num: 11
+w_h_top_words_indx: [ 872  501   97  255  466  256 1390  447 1442 1169 1007  956 1366 1402
+ 1394 1089  290  743   52 1371]
+w_h_top_words:['number', 'forsale', 'beat', 'computer', 'file', 'computers', 'waco', 'fact', 'year', 'share', 'process', 'planet', 'user', 'ways', 'wanted', 'resolution', 'cts', 'lot', 'appreciated', 'uunet']
+----------------------------------------------------------------------
+h_num: 12
+w_h_top_words_indx: [  49 1431  497  675  687 1331  856  725 1319  597 1440  343 1070  289
+  957  701   53 1373 1000  678]
+w_h_top_words:['apple', 'writes', 'form', 'keith', 'kmr', 'true', 'network', 'listen', 'tonight', 'icon', 'yankees', 'difficult', 'reflect', 'csc', 'plans', 'latest', 'apps', 'values', 'printer', 'kevin']
+----------------------------------------------------------------------
+h_num: 13
+w_h_top_words_indx: [1443  667  240  369  979  345  226 1092  601 1205  473 1248  428  424
+  641  377 1415 1032  823  917]
+w_h_top_words:['years', 'joe', 'colorado', 'double', 'posted', 'direct', 'clean', 'respond', 'idea', 'sparc', 'find', 'sun', 'executable', 'evidence', 'involved', 'drive', 'windows', 'put', 'mon', 'part']
+----------------------------------------------------------------------
+h_num: 14
+w_h_top_words_indx: [1394  435   15  406  170  667  751   63  529  138  899  916 1213 1413
+ 1216  378 1153 1253   87 1070]
+w_h_top_words:['wanted', 'expensive', 'advance', 'email', 'car', 'joe', 'mac', 'asap', 'geometry', 'brian', 'origin', 'park', 'speed', 'win', 'spring', 'driven', 'selling', 'supported', 'baseball', 'reflect']
+----------------------------------------------------------------------
+h_num: 15
+w_h_top_words_indx: [ 690  165  367  535  267 1353  761 1003 1028  156 1092  203 1235  799
+  214   15 1112  587  126  197]
+w_h_top_words:['knowledge', 'calls', 'dos', 'give', 'convert', 'unix', 'mail', 'pro', 'published', 'buy', 'respond', 'check', 'student', 'mentioned', 'christian', 'advance', 'robert', 'home', 'book', 'characters']
+----------------------------------------------------------------------
+h_num: 16
+w_h_top_words_indx: [ 776 1431  169 1238  135  737 1310 1005 1372 1365  918  633  395 1002
+ 1110  151  340  393  523  578]
+w_h_top_words:['mark', 'writes', 'caps', 'stupid', 'brain', 'loose', 'tigers', 'problems', 'uva', 'usenet', 'parts', 'insurance', 'eating', 'prism', 'road', 'burns', 'die', 'east', 'gatech', 'hey']
+----------------------------------------------------------------------
+h_num: 17
+w_h_top_words_indx: [ 639  636 1440  764  634   18 1150 1162  671 1238 1357  959  162 1026
+ 1190   26 1408 1108  624 1226]
+w_h_top_words:['internet', 'interested', 'yankees', 'maine', 'intel', 'ago', 'sega', 'set', 'jonathan', 'stupid', 'upgrade', 'play', 'calculator', 'public', 'sites', 'alexander', 'west', 'ripped', 'information', 'stats']
+----------------------------------------------------------------------
+h_num: 18
+w_h_top_words_indx: [  15  636  746 1162 1141  445  263 1052  770   61  798  648 1204 1130
+  934 1424  794  353  837 1337]
+w_h_top_words:['advance', 'interested', 'low', 'set', 'screen', 'eyes', 'contact', 'real', 'manager', 'article', 'mention', 'issue', 'space', 'sale', 'person', 'working', 'megs', 'disks', 'motorola', 'types']
+----------------------------------------------------------------------
+h_num: 19
+w_h_top_words_indx: [  15 1419  104  232  139 1381  518  230 1038 1127  916 1413 1206 1007
+ 1050 1139  212  771  856 1354]
+w_h_top_words:['advance', 'wondering', 'big', 'close', 'bring', 'vga', 'game', 'clipper', 'radar', 'ryan', 'park', 'win', 'spare', 'process', 'reading', 'sci', 'choice', 'manual', 'network', 'update']
+----------------------------------------------------------------------
+h_num: 20
+w_h_top_words_indx: [  52   54 1145 1283  164  856  903  136  533  487 1013  767 1068  629
+ 1432  315  718  310  173  109]
+w_h_top_words:['appreciated', 'apr', 'sean', 'technology', 'called', 'network', 'owners', 'brand', 'gif', 'flyback', 'program', 'makes', 'reference', 'installed', 'writing', 'dealer', 'library', 'david', 'care', 'bios']
+----------------------------------------------------------------------
+h_num: 21
+w_h_top_words_indx: [ 963  882 1124  183 1159 1200 1161  496 1123  409  996 1102 1004  115
+ 1074  651  979 1122  383  214]
+w_h_top_words:['point', 'official', 'runs', 'cds', 'server', 'sound', 'service', 'forgot', 'running', 'encryption', 'price', 'rich', 'problem', 'black', 'remember', 'jack', 'posted', 'run', 'drug', 'christian']
+----------------------------------------------------------------------
+h_num: 22
+w_h_top_words_indx: [1233 1443 1100  880  961 1168  996  796 1400  711 1051  176  537  681
+  957 1311  514 1182 1283 1226]
+w_h_top_words:['story', 'years', 'review', 'offer', 'players', 'shape', 'price', 'mel', 'wave', 'leland', 'ready', 'case', 'god', 'keys', 'plans', 'time', 'full', 'sign', 'technology', 'stats']
+----------------------------------------------------------------------
+h_num: 23
+w_h_top_words_indx: [1422 1036 1433  919  292 1326  163  590  675  203  770  786  806  629
+  295  478  547  315  285  627]
+w_h_top_words:['work', 'quick', 'written', 'pascal', 'cup', 'transfer', 'call', 'hook', 'keith', 'check', 'manager', 'max', 'mike', 'installed', 'cut', 'finished', 'grayscale', 'dealer', 'create', 'inside']
+----------------------------------------------------------------------
+h_num: 24
+w_h_top_words_indx: [ 473  157  546  978  122  531  248  509  963   94 1338  995  503 1045
+ 1414  851  372  993  446 1130]
+w_h_top_words:['find', 'buying', 'graphics', 'post', 'board', 'georgia', 'company', 'free', 'point', 'bbs', 'ucf', 'previous', 'fractals', 'ray', 'window', 'needed', 'download', 'press', 'face', 'sale']
+----------------------------------------------------------------------
+h_num: 25
+w_h_top_words_indx: [ 931  248 1026  124   82 1037   93  224 1410   49 1378  215  873 1409
+  103  727  130  367   43  762]
+w_h_top_words:['people', 'company', 'public', 'bob', 'bag', 'quote', 'baud', 'clarke', 'white', 'apple', 'verse', 'christianity', 'numbers', 'western', 'bible', 'live', 'bought', 'dos', 'answer', 'mailing']
+----------------------------------------------------------------------
+h_num: 26
+w_h_top_words_indx: [1079 1130 1408  922  723  171 1231  135  478  657   52  859  945  601
+  535  745 1306  845  836  267]
+w_h_top_words:['reply', 'sale', 'west', 'pat', 'lines', 'card', 'steven', 'brain', 'finished', 'jay', 'appreciated', 'nhl', 'picture', 'idea', 'give', 'love', 'tia', 'music', 'motorcycles', 'convert']
+----------------------------------------------------------------------
+h_num: 27
+w_h_top_words_indx: [ 761 1353  886  484  318 1431  314  222  766  418    7 1047  435 1345
+   89  258  158 1401   11 1103]
+w_h_top_words:['mail', 'unix', 'oops', 'fli', 'death', 'writes', 'deal', 'city', 'make', 'eric', 'action', 'read', 'expensive', 'umich', 'baseman', 'conditions', 'bye', 'wayne', 'add', 'richard']
+----------------------------------------------------------------------
+h_num: 28
+w_h_top_words_indx: [ 524  255  727  980  350 1037 1102  297    1 1304  426  953  491 1245
+  103   42 1070 1431 1434  974]
+w_h_top_words:['gateway', 'computer', 'live', 'poster', 'discussion', 'quote', 'rich', 'cwru', 'accept', 'throw', 'excuse', 'pixel', 'font', 'suggestions', 'bible', 'ansi', 'reflect', 'writes', 'wrong', 'ports']
+----------------------------------------------------------------------
+h_num: 29
+w_h_top_words_indx: [ 773  621  347 1394 1331  957  274   33  951  208  219 1090 1078  846
+ 1334   19 1181  762  311  962]
+w_h_top_words:['map', 'info', 'directly', 'wanted', 'true', 'plans', 'correctly', 'andrew', 'pitching', 'ching', 'cica', 'resolutions', 'replies', 'names', 'tuesday', 'agree', 'side', 'mailing', 'day', 'playoff']
+----------------------------------------------------------------------
+h_num: 30
+w_h_top_words_indx: [ 474  335  561 1349 1434  209  607  509 1267  461  406  109 1278  180
+ 1037 1216  836  919  767 1189]
+w_h_top_words:['finding', 'devices', 'happen', 'uni', 'wrong', 'chip', 'image', 'free', 'system', 'features', 'email', 'bios', 'team', 'catalog', 'quote', 'spring', 'motorcycles', 'pascal', 'makes', 'site']
+----------------------------------------------------------------------
+h_num: 31
+w_h_top_words_indx: [ 126  333  765 1412  869   18  306  627  383  879 1301  206  343 1044
+ 1090 1243  359  338 1045   75]
+w_h_top_words:['book', 'developed', 'major', 'widgets', 'notes', 'ago', 'data', 'inside', 'drug', 'obtain', 'thought', 'chicago', 'difficult', 'rao', 'resolutions', 'suggest', 'dna', 'diamond', 'ray', 'author']
+----------------------------------------------------------------------
+h_num: 32
+w_h_top_words_indx: [ 668   54  338  270  702  195  859  727  882   33 1216  116 1402 1108
+  106  282  208   13  667  614]
+w_h_top_words:['john', 'apr', 'diamond', 'copy', 'law', 'channels', 'nhl', 'live', 'official', 'andrew', 'spring', 'blame', 'ways', 'ripped', 'bike', 'coverage', 'ching', 'address', 'joe', 'included']
+----------------------------------------------------------------------
+h_num: 33
+w_h_top_words_indx: [ 751  570   34   19 1141  658 1213 1390   65 1050 1252  929  118 1444
+  977  349  649  300  963  865]
+w_h_top_words:['mac', 'heading', 'andy', 'agree', 'screen', 'jeff', 'speed', 'waco', 'asked', 'reading', 'support', 'pen', 'blue', 'york', 'possibly', 'disclaimer', 'italy', 'daily', 'point', 'normal']
+----------------------------------------------------------------------
+h_num: 34
+w_h_top_words_indx: [1425  857 1005  368   88 1296 1071  799  206 1297 1291 1432  851  981
+  908  536 1027  411  514   19]
+w_h_top_words:['works', 'news', 'problems', 'dot', 'based', 'thing', 'release', 'mentioned', 'chicago', 'things', 'texas', 'writing', 'needed', 'posting', 'paid', 'giving', 'publicity', 'engineering', 'full', 'agree']
+----------------------------------------------------------------------
+h_num: 35
+w_h_top_words_indx: [ 680  772 1162 1351  781  621 1379  209  239  552  816 1119  537  855
+ 1323  305 1269  893  989   43]
+w_h_top_words:['keyboard', 'manuals', 'set', 'united', 'matrix', 'info', 'version', 'chip', 'color', 'ground', 'missing', 'rpi', 'god', 'netters', 'total', 'danny', 'table', 'opinion', 'preferably', 'answer']
+----------------------------------------------------------------------
+h_num: 36
+w_h_top_words_indx: [1414 1079  807 1003  132  459  170 1191  310 1041 1092 1425  781 1030
+ 1235 1019   43  225  856  834]
+w_h_top_words:['window', 'reply', 'mil', 'pro', 'box', 'fax', 'car', 'size', 'david', 'ram', 'respond', 'works', 'matrix', 'purchasing', 'student', 'promise', 'answer', 'classic', 'network', 'motif']
+----------------------------------------------------------------------
+h_num: 37
+w_h_top_words_indx: [ 374  769  727  683 1211  558  497 1083 1316 1240 1394  875  257  639
+  143  214  270 1431 1422 1399]
+w_h_top_words:['drake', 'man', 'live', 'kidding', 'specifically', 'hall', 'form', 'request', 'today', 'subject', 'wanted', 'nyx', 'condition', 'internet', 'bruins', 'christian', 'copy', 'writes', 'work', 'watch']
+----------------------------------------------------------------------
+h_num: 38
+w_h_top_words_indx: [ 761  537 1415  889  806  805   40 1011  135   19  339  676  556   27
+ 1340 1223  496  610  168 1005]
+w_h_top_words:['mail', 'god', 'windows', 'opener', 'mike', 'microsoft', 'annoying', 'product', 'brain', 'agree', 'dick', 'keller', 'guy', 'alfalfa', 'ucs', 'starts', 'forgot', 'important', 'canon', 'problems']
+----------------------------------------------------------------------
+h_num: 39
+w_h_top_words_indx: [ 724 1088  130  873 1195  822  956  859 1428  616  549 1271 1022  262
+  182 1246   61 1012  314 1034]
+w_h_top_words:['list', 'research', 'bought', 'numbers', 'software', 'modem', 'planet', 'nhl', 'wouldn', 'indiana', 'greatly', 'taking', 'prove', 'connection', 'cdac', 'summary', 'article', 'products', 'deal', 'question']
+----------------------------------------------------------------------
+h_num: 40
+w_h_top_words_indx: [1297 1083   61 1190 1171  573  509 1317    6  830   13  247  306   56
+  730 1061  574 1412  533  983]
+w_h_top_words:['things', 'request', 'article', 'sites', 'shawn', 'heard', 'free', 'told', 'acs', 'moon', 'address', 'companies', 'data', 'archie', 'location', 'recent', 'heart', 'widgets', 'gif', 'postscript']
+----------------------------------------------------------------------
+h_num: 41
+w_h_top_words_indx: [1004 1434 1376  978 1432  545 1246 1331  944  243 1203 1228  923  340
+ 1170 1399 1329  886  525 1406]
+w_h_top_words:['problem', 'wrong', 'vax', 'post', 'writing', 'graphic', 'summary', 'true', 'pics', 'command', 'sources', 'stealth', 'patch', 'die', 'shareware', 'watch', 'trouble', 'oops', 'gear', 'weeks']
+----------------------------------------------------------------------
+h_num: 42
+w_h_top_words_indx: [  14  876   61  751  724   69 1162  766   87 1369  990  533 1240  180
+  957  768  562  190  732  896]
+w_h_top_words:['adobe', 'oak', 'article', 'mac', 'list', 'atheists', 'set', 'make', 'baseball', 'utilities', 'preferred', 'gif', 'subject', 'catalog', 'plans', 'making', 'happened', 'chance', 'logical', 'orbit']
+----------------------------------------------------------------------
+h_num: 43
+w_h_top_words_indx: [ 203  908 1218  310  734  916  932  178  668  876 1428  360  296 1031
+  278  985  784   81 1339  561]
+w_h_top_words:['check', 'paid', 'standard', 'david', 'long', 'park', 'performa', 'cassette', 'john', 'oak', 'wouldn', 'docs', 'cute', 'purdue', 'couldn', 'power', 'matthew', 'bad', 'uci', 'happen']
+----------------------------------------------------------------------
+h_num: 44
+w_h_top_words_indx: [1419  310  535   52  383  337 1430  976 1230  485 1311   43  507  907
+  671  675  401  314 1030  495]
+w_h_top_words:['wondering', 'david', 'give', 'appreciated', 'drug', 'diagnosed', 'write', 'positive', 'steve', 'floppy', 'time', 'answer', 'frank', 'pages', 'jonathan', 'keith', 'effects', 'deal', 'purchasing', 'forget']
+----------------------------------------------------------------------
+h_num: 45
+w_h_top_words_indx: [ 164  371  466  697 1371  352 1113 1262  377  935  600 1052  754  849
+  513 1370  434  561  709  148]
+w_h_top_words:['called', 'doug', 'file', 'larry', 'uunet', 'disk', 'roger', 'svga', 'drive', 'personal', 'ide', 'real', 'machines', 'nations', 'ftp', 'utility', 'expect', 'happen', 'legend', 'building']
+----------------------------------------------------------------------
+h_num: 46
+w_h_top_words_indx: [ 978  632  608 1373  136 1392  237  278 1122  443  743  332  533  745
+ 1248  468 1431  383  216  452]
+w_h_top_words:['post', 'instructions', 'images', 'values', 'brand', 'wait', 'code', 'couldn', 'run', 'extra', 'lot', 'dev', 'gif', 'love', 'sun', 'fill', 'writes', 'drug', 'christians', 'fan']
+----------------------------------------------------------------------
+h_num: 47
+w_h_top_words_indx: [1427  893   15  844  740  491  960  804  135  157 1140  770 1267 1163
+  123 1090  482 1200  405  694]
+w_h_top_words:['world', 'opinion', 'advance', 'multiple', 'lose', 'font', 'player', 'michael', 'brain', 'buying', 'scott', 'manager', 'system', 'settings', 'boards', 'resolutions', 'fix', 'sound', 'eliot', 'language']
+----------------------------------------------------------------------
+h_num: 48
+w_h_top_words_indx: [1443  940 1206  172 1355  263  637  828 1398 1365  706  127  494  824
+ 1381   39   87  953  602 1031]
+w_h_top_words:['years', 'phone', 'spare', 'cards', 'updated', 'contact', 'interesting', 'months', 'washington', 'usenet', 'lee', 'books', 'force', 'monitor', 'vga', 'announcement', 'baseball', 'pixel', 'ideas', 'purdue']
+----------------------------------------------------------------------
+h_num: 49
+w_h_top_words_indx: [ 671  961 1185 1056  576  136 1372 1250  687  734  567  766  241  564
+  156  751 1276  676 1237 1302]
+w_h_top_words:['jonathan', 'players', 'similar', 'reasonable', 'hell', 'brand', 'uva', 'super', 'kmr', 'long', 'hate', 'make', 'colors', 'hard', 'buy', 'mac', 'targa', 'keller', 'stuff', 'thoughts']
+----------------------------------------------------------------------
+h_num: 50
+w_h_top_words_indx: [ 239  761  546  856  248 1012  621  254 1126  803 1415  535   94  813
+ 1252  325 1250  375 1154  631]
+w_h_top_words:['color', 'mail', 'graphics', 'network', 'company', 'products', 'info', 'compuserve', 'rutgers', 'mhz', 'windows', 'give', 'bbs', 'minor', 'support', 'description', 'super', 'drawing', 'send', 'institute']
+----------------------------------------------------------------------
+h_num: 51
+w_h_top_words_indx: [  18  699  662  797 1052   19  390  858   97  175 1441 1443 1323  596
+  560  746 1304  100 1395 1162]
+w_h_top_words:['ago', 'laserjet', 'jet', 'memory', 'real', 'agree', 'earlier', 'newsgroup', 'beat', 'cars', 'yeah', 'years', 'total', 'ibm', 'hands', 'low', 'throw', 'bell', 'wanting', 'set']
+----------------------------------------------------------------------
+h_num: 52
+w_h_top_words_indx: [ 406  122  377   63  276  954 1419  513 1379  793 1378  345  668   81
+  632  214  916  613   41  126]
+w_h_top_words:['email', 'board', 'drive', 'asap', 'cost', 'place', 'wondering', 'ftp', 'version', 'meg', 'verse', 'direct', 'john', 'bad', 'instructions', 'christian', 'park', 'include', 'anonymous', 'book']
+----------------------------------------------------------------------
+h_num: 53
+w_h_top_words_indx: [ 961  638 1267  639  484 1431  121 1297  799 1382  559  164 1283  364
+ 1433 1123  836  855  189  631]
+w_h_top_words:['players', 'internal', 'system', 'internet', 'fli', 'writes', 'bnr', 'things', 'mentioned', 'video', 'handle', 'called', 'technology', 'dod', 'written', 'running', 'motorcycles', 'netters', 'challenge', 'institute']
+----------------------------------------------------------------------
+h_num: 54
+w_h_top_words_indx: [ 985  457 1003  803 1307 1089 1379  568  639 1122  110  894  385  786
+  972  456 1353  824  818 1327]
+w_h_top_words:['power', 'faster', 'pro', 'mhz', 'ticket', 'resolution', 'version', 'haven', 'internet', 'run', 'bison', 'opinions', 'dsp', 'max', 'port', 'fast', 'unix', 'monitor', 'mit', 'treatment']
+----------------------------------------------------------------------
+h_num: 55
+w_h_top_words_indx: [ 918  134  473  549  110  126  395   19  770 1184 1124 1444   64  104
+ 1154 1402  869  913  533  109]
+w_h_top_words:['parts', 'brad', 'find', 'greatly', 'bison', 'book', 'eating', 'agree', 'manager', 'silicon', 'runs', 'york', 'ascii', 'big', 'send', 'ways', 'notes', 'paper', 'gif', 'bios']
+----------------------------------------------------------------------
+h_num: 56
+w_h_top_words_indx: [1382 1151  257 1381 1297   88  837  627  347  872  931  755  924  289
+  941 1156  425  556  319  803]
+w_h_top_words:['video', 'sell', 'condition', 'vga', 'things', 'based', 'motorola', 'inside', 'directly', 'number', 'people', 'macintosh', 'patches', 'csc', 'physics', 'serdar', 'excellent', 'guy', 'debris', 'mhz']
+----------------------------------------------------------------------
+h_num: 57
+w_h_top_words_indx: [ 126  621 1013 1381 1055    5 1438  407  862  226 1428 1009  758  102
+  931 1103  934 1122  352 1282]
+w_h_top_words:['book', 'info', 'program', 'vga', 'reason', 'accurate', 'xterm', 'emulator', 'nissan', 'clean', 'wouldn', 'processor', 'made', 'beyer', 'people', 'richard', 'person', 'run', 'disk', 'technique']
+----------------------------------------------------------------------
+h_num: 58
+w_h_top_words_indx: [ 227  276  904   38 1013  940   70   81  945 1241  543  499  811  480
+ 1047 1126  136 1122  192  152]
+w_h_top_words:['clear', 'cost', 'package', 'animations', 'program', 'phone', 'ati', 'bad', 'picture', 'subscribe', 'government', 'formats', 'mine', 'firstclass', 'read', 'rutgers', 'brand', 'run', 'changed', 'bus']
+----------------------------------------------------------------------
+h_num: 59
+w_h_top_words_indx: [ 708 1306  171  643  579  769  644 1376  123 1294 1181  859 1447 1419
+ 1194  940 1047  691   30  961]
+w_h_top_words:['legal', 'tia', 'card', 'isa', 'high', 'man', 'islamic', 'vax', 'boards', 'tga', 'side', 'nhl', 'zip', 'wondering', 'small', 'phone', 'read', 'koresh', 'amiga', 'players']
+----------------------------------------------------------------------
+h_num: 60
+w_h_top_words_indx: [ 163 1422  479 1394  126  939 1147  706  176  180   39  425  824  691
+  886  675  227  413 1375  687]
+w_h_top_words:['call', 'work', 'firm', 'wanted', 'book', 'philadelphia', 'season', 'lee', 'case', 'catalog', 'announcement', 'excellent', 'monitor', 'koresh', 'oops', 'keith', 'clear', 'engr', 'variable', 'kmr']
+----------------------------------------------------------------------
+h_num: 61
+w_h_top_words_indx: [ 106 1415  677 1237 1181 1316  817  370 1218  772    2 1443  383 1093
+  935  462 1139 1195  712   18]
+w_h_top_words:['bike', 'windows', 'ken', 'stuff', 'side', 'today', 'mission', 'doubt', 'standard', 'manuals', 'accepted', 'years', 'drug', 'responded', 'personal', 'feet', 'sci', 'software', 'lets', 'ago']
+----------------------------------------------------------------------
+h_num: 62
+w_h_top_words_indx: [1410  870  167 1336  753 1279  776 1440  743 1066  465  272  350 1247
+  339 1310 1396 1322 1443 1152]
+w_h_top_words:['white', 'noticed', 'cancer', 'type', 'machine', 'teams', 'mark', 'yankees', 'lot', 'red', 'figure', 'correct', 'discussion', 'summer', 'dick', 'tigers', 'war', 'toronto', 'years', 'seller']
+----------------------------------------------------------------------
+h_num: 63
+w_h_top_words_indx: [ 314  336  131 1057 1103  758 1036  672 1186  475  365  175  213  171
+  379  627  818  157  880  210]
+w_h_top_words:['deal', 'devil', 'bout', 'reasons', 'richard', 'made', 'quick', 'joseph', 'simms', 'fine', 'dollars', 'cars', 'chris', 'card', 'driver', 'inside', 'mit', 'buying', 'offer', 'chips']
+----------------------------------------------------------------------
+h_num: 64
+w_h_top_words_indx: [ 806  766 1074 1419 1392  731  727 1435 1175  901 1301  691  743 1357
+  995  300  814 1060 1173 1276]
+w_h_top_words:['mike', 'make', 'remember', 'wondering', 'wait', 'logic', 'live', 'wrote', 'shooting', 'oscs', 'thought', 'koresh', 'lot', 'upgrade', 'previous', 'daily', 'minute', 'received', 'shipping', 'targa']
+----------------------------------------------------------------------
+h_num: 65
+w_h_top_words_indx: [  11  175  639 1440  684  801  519 1128 1311  164 1055 1151  859  952
+  247  824 1296  678  805  446]
+w_h_top_words:['add', 'cars', 'internet', 'yankees', 'kind', 'message', 'games', 'sabres', 'time', 'called', 'reason', 'sell', 'nhl', 'pitt', 'companies', 'monitor', 'thing', 'kevin', 'microsoft', 'face']
+----------------------------------------------------------------------
+h_num: 66
+w_h_top_words_indx: [ 860  696    2 1247  803 1212 1157 1268  679  210  425  406  548   13
+  457  510  927  636  861 1233]
+w_h_top_words:['nice', 'large', 'accepted', 'summer', 'mhz', 'specs', 'serial', 'systems', 'key', 'chips', 'excellent', 'email', 'great', 'address', 'faster', 'freenet', 'paying', 'interested', 'nikkor', 'story']
+----------------------------------------------------------------------
+h_num: 67
+w_h_top_words_indx: [1074  381 1267   11  724   12 1431 1144  511  350  573  157  847  266
+ 1405 1238  253  164  384  548]
+w_h_top_words:['remember', 'drives', 'system', 'add', 'list', 'addition', 'writes', 'seagate', 'friend', 'discussion', 'heard', 'buying', 'nasa', 'controller', 'week', 'stupid', 'compression', 'called', 'drugs', 'great']
+----------------------------------------------------------------------
+h_num: 68
+w_h_top_words_indx: [ 851   69  640   52  237  513  667 1415  984 1420  455 1199   56 1008
+ 1005  319  543 1019  978 1162]
+w_h_top_words:['needed', 'atheists', 'interrupt', 'appreciated', 'code', 'ftp', 'joe', 'windows', 'pov', 'word', 'faq', 'soul', 'archie', 'processes', 'problems', 'debris', 'government', 'promise', 'post', 'set']
+----------------------------------------------------------------------
+h_num: 69
+w_h_top_words_indx: [ 156 1204 1445   61  893 1283  799  796 1067  556  822  820 1291 1007
+  918  122  573 1180  766  537]
+w_h_top_words:['buy', 'space', 'ysu', 'article', 'opinion', 'technology', 'mentioned', 'mel', 'refer', 'guy', 'modem', 'model', 'texas', 'process', 'parts', 'board', 'heard', 'shuttle', 'make', 'god']
+----------------------------------------------------------------------
+h_num: 70
+w_h_top_words_indx: [  15 1347  354  159  679  449  212 1223  836  170  717   22 1428  161
+ 1391 1004  613  748  476  964]
+w_h_top_words:['advance', 'understand', 'display', 'cable', 'key', 'fall', 'choice', 'starts', 'motorcycles', 'car', 'libraries', 'aka', 'wouldn', 'cage', 'wagon', 'problem', 'include', 'lucas', 'finger', 'pointers']
+----------------------------------------------------------------------
+h_num: 71
+w_h_top_words_indx: [  51  504  708 1218  765 1102  734 1013 1311 1430  722  247  923  540
+   91 1349 1375   65  940  318]
+w_h_top_words:['applied', 'frame', 'legal', 'standard', 'major', 'rich', 'long', 'program', 'time', 'write', 'line', 'companies', 'patch', 'good', 'batf', 'uni', 'variable', 'asked', 'phone', 'death']
+----------------------------------------------------------------------
+h_num: 72
+w_h_top_words_indx: [  54  570  766  237  544 1297  942  270  971  624  872  857  349  676
+  723 1431  164  271   15  977]
+w_h_top_words:['apr', 'heading', 'make', 'code', 'grand', 'things', 'pick', 'copy', 'popular', 'information', 'number', 'news', 'disclaimer', 'keller', 'lines', 'writes', 'called', 'corporation', 'advance', 'possibly']
+----------------------------------------------------------------------
+h_num: 73
+w_h_top_words_indx: [ 326 1013  556  170  305 1259  943  558 1180  669 1125  536 1329  633
+   81   56  601 1347  499   93]
+w_h_top_words:['design', 'program', 'guy', 'car', 'danny', 'surface', 'picks', 'hall', 'shuttle', 'johnson', 'russia', 'giving', 'trouble', 'insurance', 'bad', 'archie', 'idea', 'understand', 'formats', 'baud']
+----------------------------------------------------------------------
+h_num: 74
+w_h_top_words_indx: [ 548 1013 1359 1428  317  769 1422  709  406 1191  482  753  956  762
+  950 1415  228   19  181  332]
+w_h_top_words:['great', 'program', 'upgrading', 'wouldn', 'dear', 'man', 'work', 'legend', 'email', 'size', 'fix', 'machine', 'planet', 'mailing', 'pitcher', 'windows', 'client', 'agree', 'catch', 'dev']
+----------------------------------------------------------------------
+h_num: 75
+w_h_top_words_indx: [ 251 1169 1200  540 1054 1298 1045 1381  170  693 1066  239  953 1079
+  381  499  115  919  824   17]
+w_h_top_words:['compile', 'share', 'sound', 'good', 'rear', 'thinking', 'ray', 'vga', 'car', 'landed', 'red', 'color', 'pixel', 'reply', 'drives', 'formats', 'black', 'pascal', 'monitor', 'advice']
+----------------------------------------------------------------------
+h_num: 76
+w_h_top_words_indx: [ 278 1077 1201 1031  996  755  441  902  636  422 1422   72  995 1319
+  904  715 1433  383 1248  882]
+w_h_top_words:['couldn', 'replacement', 'sounds', 'purdue', 'price', 'macintosh', 'extension', 'owner', 'interested', 'eve', 'work', 'audio', 'previous', 'tonight', 'package', 'level', 'written', 'drug', 'sun', 'official']
+----------------------------------------------------------------------
+h_num: 77
+w_h_top_words_indx: [1424  822  535 1033  131  596  196  965 1101 1240 1212  380  154  237
+  569  312  990   64  239 1159]
+w_h_top_words:['working', 'modem', 'give', 'quality', 'bout', 'ibm', 'character', 'points', 'rgb', 'subject', 'specs', 'drivers', 'busy', 'code', 'head', 'days', 'preferred', 'ascii', 'color', 'server']
+----------------------------------------------------------------------
+h_num: 78
+w_h_top_words_indx: [ 173  834 1012  713  754  996  856  314  801  890  442  438   58  984
+  480 1195 1159  748  636  746]
+w_h_top_words:['care', 'motif', 'products', 'letter', 'machines', 'price', 'network', 'deal', 'message', 'opening', 'external', 'explain', 'archives', 'pov', 'firstclass', 'software', 'server', 'lucas', 'interested', 'low']
+----------------------------------------------------------------------
+h_num: 79
+w_h_top_words_indx: [  94   15  748 1267  219  164  963 1398 1127  435  825  777  220  524
+  223  249  346   62  623  301]
+w_h_top_words:['bbs', 'advance', 'lucas', 'system', 'cica', 'called', 'point', 'washington', 'ryan', 'expensive', 'monitors', 'market', 'circuit', 'gateway', 'claim', 'compare', 'direction', 'articles', 'informatik', 'dal']
+----------------------------------------------------------------------
+h_num: 80
+w_h_top_words_indx: [1005 1370   81  691  624  668  720  541 1311  985  239 1218 1380  610
+ 1270  769  735  796  837 1034]
+w_h_top_words:['problems', 'utility', 'bad', 'koresh', 'information', 'john', 'life', 'gosh', 'time', 'power', 'color', 'standard', 'vesa', 'important', 'takes', 'man', 'longer', 'mel', 'motorola', 'question']
+----------------------------------------------------------------------
+h_num: 81
+w_h_top_words_indx: [ 582  166  578 1352  818  892  646 1122  441  459  814  251 1340   43
+  171  487 1437  728 1294 1297]
+w_h_top_words:['history', 'canada', 'hey', 'university', 'mit', 'operation', 'isn', 'run', 'extension', 'fax', 'minute', 'compile', 'ucs', 'answer', 'card', 'flyback', 'xlib', 'local', 'tga', 'things']
+----------------------------------------------------------------------
+h_num: 82
+w_h_top_words_indx: [ 940  858  981 1047  873  856  350  702  409  612  342  480 1403 1388
+   34 1376 1011  931  761  308]
+w_h_top_words:['phone', 'newsgroup', 'posting', 'read', 'numbers', 'network', 'discussion', 'law', 'encryption', 'incident', 'differences', 'firstclass', 'wearing', 'visual', 'andy', 'vax', 'product', 'people', 'mail', 'date']
+----------------------------------------------------------------------
+h_num: 83
+w_h_top_words_indx: [1431  222  651 1440  123  599   26  679  532  473 1066  750 1034  336
+   68  767  387 1173  989  278]
+w_h_top_words:['writes', 'city', 'jack', 'yankees', 'boards', 'ics', 'alexander', 'key', 'german', 'find', 'red', 'lynx', 'question', 'devil', 'atf', 'makes', 'duke', 'shipping', 'preferably', 'couldn']
+----------------------------------------------------------------------
+h_num: 84
+w_h_top_words_indx: [ 136   13  761  561 1066  293  663  998  900 1000  964   33 1264  555
+  644 1389  931 1028  199  159]
+w_h_top_words:['brand', 'address', 'mail', 'happen', 'red', 'curious', 'jewish', 'print', 'original', 'printer', 'pointers', 'andrew', 'switch', 'guess', 'islamic', 'voice', 'people', 'published', 'charles', 'cable']
+----------------------------------------------------------------------
+h_num: 85
+w_h_top_words_indx: [ 872 1079   43 1312   64  594 1415  406 1120  524  940  597 1047 1346
+  461    8  299  860  157  366]
+w_h_top_words:['number', 'reply', 'answer', 'times', 'ascii', 'hst', 'windows', 'email', 'rule', 'gateway', 'phone', 'icon', 'read', 'unable', 'features', 'actual', 'daemon', 'nice', 'buying', 'domain']
+----------------------------------------------------------------------
+h_num: 86
+w_h_top_words_indx: [ 371  761   36  891  635  253    6  387 1431 1256  793 1311  916  537
+  148  388  554 1151  728  223]
+w_h_top_words:['doug', 'mail', 'angry', 'operating', 'interest', 'compression', 'acs', 'duke', 'writes', 'supports', 'meg', 'time', 'park', 'god', 'building', 'dumb', 'groups', 'sell', 'local', 'claim']
+----------------------------------------------------------------------
+h_num: 87
+w_h_top_words_indx: [ 347 1389  406 1298 1162 1067  257 1421  286  983  156  466  645  861
+  879  582  797   90   54  779]
+w_h_top_words:['directly', 'voice', 'email', 'thinking', 'set', 'refer', 'condition', 'words', 'created', 'postscript', 'buy', 'file', 'island', 'nikkor', 'obtain', 'history', 'memory', 'basic', 'apr', 'math']
+----------------------------------------------------------------------
+h_num: 88
+w_h_top_words_indx: [ 502  804 1296 1267  509  310  788 1080  300   43  428 1202  354  367
+  240 1331  735  337  724   15]
+w_h_top_words:['found', 'michael', 'thing', 'system', 'free', 'david', 'mazda', 'report', 'daily', 'answer', 'executable', 'source', 'display', 'dos', 'colorado', 'true', 'longer', 'diagnosed', 'list', 'advance']
+----------------------------------------------------------------------
+h_num: 89
+w_h_top_words_indx: [  52 1256 1414  204  851  225  546  639 1013  276  915 1015   94  132
+  948  152 1253  391  974   88]
+w_h_top_words:['appreciated', 'supports', 'window', 'cheers', 'needed', 'classic', 'graphics', 'internet', 'program', 'cost', 'parametric', 'programs', 'bbs', 'box', 'pin', 'bus', 'supported', 'early', 'ports', 'based']
+----------------------------------------------------------------------
+h_num: 90
+w_h_top_words_indx: [1083 1217  455  339  498  268  810 1103 1345  270  231  512 1189 1431
+  161  658 1422  844  764 1241]
+w_h_top_words:['request', 'stadium', 'faq', 'dick', 'format', 'converter', 'mind', 'richard', 'umich', 'copy', 'clock', 'front', 'site', 'writes', 'cage', 'jeff', 'work', 'multiple', 'maine', 'subscribe']
+----------------------------------------------------------------------
+h_num: 91
+w_h_top_words_indx: [  15  596 1195   83  722 1430 1188  254  460  786  347   64  877 1050
+  751  810  678  827 1205  671]
+w_h_top_words:['advance', 'ibm', 'software', 'ball', 'line', 'write', 'simply', 'compuserve', 'fear', 'max', 'directly', 'ascii', 'objects', 'reading', 'mac', 'mind', 'kevin', 'month', 'sparc', 'jonathan']
+----------------------------------------------------------------------
+h_num: 92
+w_h_top_words_indx: [ 191 1035  244  136  436  761  316  656  173 1095  337  383  908  481
+ 1271 1432  994   52 1425  526]
+w_h_top_words:['change', 'questions', 'comment', 'brand', 'experience', 'mail', 'dealers', 'jason', 'care', 'responses', 'diagnosed', 'drug', 'paid', 'fit', 'taking', 'writing', 'pretty', 'appreciated', 'works', 'general']
+----------------------------------------------------------------------
+h_num: 93
+w_h_top_words_indx: [ 560  769  872  904  902  112 1228   94  460 1277 1281  488  394  737
+ 1358  885 1137  701 1230  281]
+w_h_top_words:['hands', 'man', 'number', 'package', 'owner', 'bitmap', 'stealth', 'bbs', 'fear', 'tdb', 'technical', 'folks', 'easy', 'loose', 'upgrades', 'oliver', 'scheduled', 'latest', 'steve', 'couple']
+----------------------------------------------------------------------
+h_num: 94
+w_h_top_words_indx: [ 880 1413 1187  466 1379  931 1006 1005  921  682 1190  946  251 1061
+  904 1250  138  527   15   90]
+w_h_top_words:['offer', 'win', 'simple', 'file', 'version', 'people', 'procedure', 'problems', 'past', 'keywords', 'sites', 'pictures', 'compile', 'recent', 'package', 'super', 'brian', 'generate', 'advance', 'basic']
+----------------------------------------------------------------------
+h_num: 95
+w_h_top_words_indx: [ 665  846   39 1088 1048 1130   79  361  858  383 1435  762  979  641
+  568  724 1409  390  577  773]
+w_h_top_words:['jim', 'names', 'announcement', 'research', 'reader', 'sale', 'back', 'doctor', 'newsgroup', 'drug', 'wrote', 'mailing', 'posted', 'involved', 'haven', 'list', 'western', 'earlier', 'helpful', 'map']
+----------------------------------------------------------------------
+h_num: 96
+w_h_top_words_indx: [1431  170  423   39 1093   17  580  262  294  228  565  947 1081 1151
+  540 1303  665 1141  271 1267]
+w_h_top_words:['writes', 'car', 'event', 'announcement', 'responded', 'advice', 'higher', 'connection', 'current', 'client', 'hardware', 'pieces', 'reports', 'sell', 'good', 'thread', 'jim', 'screen', 'corporation', 'system']
+----------------------------------------------------------------------
+h_num: 97
+w_h_top_words_indx: [ 555 1331  805  143  621  786  151  530 1182 1126 1069  882  243 1433
+ 1384  730  978  601 1253  513]
+w_h_top_words:['guess', 'true', 'microsoft', 'bruins', 'info', 'max', 'burns', 'george', 'sign', 'rutgers', 'references', 'official', 'command', 'written', 'viewer', 'location', 'post', 'idea', 'supported', 'ftp']
+----------------------------------------------------------------------
+h_num: 98
+w_h_top_words_indx: [ 937  925   52  586 1384  993 1387   81  857  972  556  745  265 1279
+  834   82 1013  929  945 1366]
+w_h_top_words:['peter', 'paul', 'appreciated', 'hold', 'viewer', 'press', 'virus', 'bad', 'news', 'port', 'guy', 'love', 'control', 'teams', 'motif', 'bag', 'program', 'pen', 'picture', 'user']
+----------------------------------------------------------------------
+h_num: 99
+w_h_top_words_indx: [1130 1079  654 1222 1302 1069  794  369  913 1379  831   41 1075  926
+  878  678  126  413 1118 1313]
+w_h_top_words:['sale', 'reply', 'jamie', 'started', 'thoughts', 'references', 'megs', 'double', 'paper', 'version', 'moral', 'anonymous', 'remote', 'pay', 'obo', 'kevin', 'book', 'engr', 'routine', 'tip']
+----------------------------------------------------------------------
+h_num: 100
+w_h_top_words_indx: [ 933 1431   15   61  235  858  671 1352  871  633 1228  205   87   52
+  578 1224  227  645  893 1427]
+w_h_top_words:['performance', 'writes', 'advance', 'article', 'clutch', 'newsgroup', 'jonathan', 'university', 'nuclear', 'insurance', 'stealth', 'chen', 'baseball', 'appreciated', 'hey', 'state', 'clear', 'island', 'opinion', 'world']
+----------------------------------------------------------------------
+h_num: 101
+w_h_top_words_indx: [ 822  270  245  156 1162  265  903 1272  438 1184  665  199   61  825
+  255 1201    5  635 1056 1079]
+w_h_top_words:['modem', 'copy', 'comments', 'buy', 'set', 'control', 'owners', 'talk', 'explain', 'silicon', 'jim', 'charles', 'article', 'monitors', 'computer', 'sounds', 'accurate', 'interest', 'reasonable', 'reply']
+----------------------------------------------------------------------
+h_num: 102
+w_h_top_words_indx: [1394  106  406  136  205  961  164  268  996  673  816 1382 1200  172
+   82 1074 1025  274 1152  880]
+w_h_top_words:['wanted', 'bike', 'email', 'brand', 'chen', 'players', 'called', 'converter', 'price', 'jump', 'missing', 'video', 'sound', 'cards', 'bag', 'remember', 'pub', 'correctly', 'seller', 'offer']
+----------------------------------------------------------------------
+h_num: 103
+w_h_top_words_indx: [ 857  548  466  624 1339 1329  156 1130  576  216   85 1019 1394  499
+  204  465 1081  558  722  345]
+w_h_top_words:['news', 'great', 'file', 'information', 'uci', 'trouble', 'buy', 'sale', 'hell', 'christians', 'bar', 'promise', 'wanted', 'formats', 'cheers', 'figure', 'reports', 'hall', 'line', 'direct']
+----------------------------------------------------------------------
+h_num: 104
+w_h_top_words_indx: [1339  229  892 1105  151  143  313   75  777  876 1252  727  557  632
+ 1012  504 1048  392 1318  127]
+w_h_top_words:['uci', 'clinton', 'operation', 'rid', 'burns', 'bruins', 'dead', 'author', 'market', 'oak', 'support', 'live', 'guys', 'instructions', 'products', 'frame', 'reader', 'earth', 'tom', 'books']
+----------------------------------------------------------------------
+h_num: 105
+w_h_top_words_indx: [ 440  765  923 1019  736   79  540  196 1177  300 1351 1422  547  727
+ 1138  217   94 1373  409  898]
+w_h_top_words:['expressed', 'major', 'patch', 'promise', 'looked', 'back', 'good', 'character', 'show', 'daily', 'united', 'work', 'grayscale', 'live', 'school', 'chuck', 'bbs', 'values', 'encryption', 'org']
+----------------------------------------------------------------------
+h_num: 106
+w_h_top_words_indx: [1188 1047 1350 1050  119  747  553  636 1388  978  507 1383  491  369
+  799  498  431   54   13  882]
+w_h_top_words:['simply', 'read', 'unit', 'reading', 'bmp', 'lower', 'group', 'interested', 'visual', 'post', 'frank', 'view', 'font', 'double', 'mentioned', 'format', 'exists', 'apr', 'address', 'official']
+----------------------------------------------------------------------
+h_num: 107
+w_h_top_words_indx: [1130 1230  905  272  627  467 1013 1361 1216   43  267 1294  285  414
+ 1170  527  302  122  783   10]
+w_h_top_words:['sale', 'steve', 'packages', 'correct', 'inside', 'files', 'program', 'upper', 'spring', 'answer', 'convert', 'tga', 'create', 'environment', 'shareware', 'generate', 'dan', 'board', 'matter', 'adaptor']
+----------------------------------------------------------------------
+h_num: 108
+w_h_top_words_indx: [1224 1405  819  624 1429  879 1013  785  472 1223 1138 1266 1088  627
+  586   76   82 1107  678  352]
+w_h_top_words:['state', 'week', 'mode', 'information', 'wpi', 'obtain', 'program', 'mattingly', 'finals', 'starts', 'school', 'sys', 'research', 'inside', 'hold', 'authority', 'bag', 'ring', 'kevin', 'disk']
+----------------------------------------------------------------------
+h_num: 109
+w_h_top_words_indx: [ 533 1063 1352 1258  764  518  185  131 1112 1031   25  992   35 1436
+  675   71  248 1283 1218  299]
+w_h_top_words:['gif', 'recommend', 'university', 'supposed', 'maine', 'game', 'center', 'bout', 'robert', 'purdue', 'alberta', 'president', 'angmar', 'wustl', 'keith', 'atlanta', 'company', 'technology', 'standard', 'daemon']
+----------------------------------------------------------------------
+h_num: 110
+w_h_top_words_indx: [ 283 1415  813  893  797 1180  826 1001 1342  875 1357  477  147  824
+  474  755 1316  712  564  706]
+w_h_top_words:['cpu', 'windows', 'minor', 'opinion', 'memory', 'shuttle', 'montana', 'printing', 'udel', 'nyx', 'upgrade', 'finish', 'build', 'monitor', 'finding', 'macintosh', 'today', 'lets', 'hard', 'lee']
+----------------------------------------------------------------------
+h_num: 111
+w_h_top_words_indx: [1424  833  111  296  741  613 1136  985  306  800  781 1156  377  481
+  311  389 1286  587   76  974]
+w_h_top_words:['working', 'motherboard', 'bit', 'cute', 'loser', 'include', 'save', 'power', 'data', 'menu', 'matrix', 'serdar', 'drive', 'fit', 'day', 'duo', 'term', 'home', 'authority', 'ports']
+----------------------------------------------------------------------
+h_num: 112
+w_h_top_words_indx: [1334  961  577  764  761  627  531  352  392 1311  143 1419  363 1045
+ 1079  553 1429  836  675  274]
+w_h_top_words:['tuesday', 'players', 'helpful', 'maine', 'mail', 'inside', 'georgia', 'disk', 'earth', 'time', 'bruins', 'wondering', 'documents', 'ray', 'reply', 'group', 'wpi', 'motorcycles', 'keith', 'correctly']
+----------------------------------------------------------------------
+h_num: 113
+w_h_top_words_indx: [ 761  724  293  996  866  553 1118  826  351   26  518  751  945   32
+  310 1309   85  558  825  705]
+w_h_top_words:['mail', 'list', 'curious', 'price', 'norton', 'group', 'routine', 'montana', 'disease', 'alexander', 'game', 'mac', 'picture', 'andre', 'david', 'tiff', 'bar', 'hall', 'monitors', 'leave']
+----------------------------------------------------------------------
+h_num: 114
+w_h_top_words_indx: [ 631 1019  112  204   94  883  406  493  161 1018  956  127 1188  846
+ 1382   65  579 1283  505  376]
+w_h_top_words:['institute', 'promise', 'bitmap', 'cheers', 'bbs', 'oil', 'email', 'fool', 'cage', 'projects', 'planet', 'books', 'simply', 'names', 'video', 'asked', 'high', 'technology', 'france', 'dresden']
+----------------------------------------------------------------------
+h_num: 115
+w_h_top_words_indx: [1238  540 1350  761  722 1168 1414 1199 1196 1003 1420 1410  459  981
+ 1073  578  614 1037 1146  339]
+w_h_top_words:['stupid', 'good', 'unit', 'mail', 'line', 'shape', 'window', 'soul', 'sold', 'pro', 'word', 'white', 'fax', 'posting', 'religion', 'hey', 'included', 'quote', 'searching', 'dick']
+----------------------------------------------------------------------
+h_num: 116
+w_h_top_words_indx: [ 886 1004  648  437  790 1297  580   81 1016 1438   17 1027  728 1301
+  892  872  332 1405 1189 1214]
+w_h_top_words:['oops', 'problem', 'issue', 'experiences', 'meant', 'things', 'higher', 'bad', 'project', 'xterm', 'advice', 'publicity', 'local', 'thought', 'operation', 'number', 'dev', 'week', 'site', 'speedstar']
+----------------------------------------------------------------------
+h_num: 117
+w_h_top_words_indx: [1431  209  502 1080  963 1122 1267 1020  783 1089  369   52   81  167
+    3 1274  578  825 1083  624]
+w_h_top_words:['writes', 'chip', 'found', 'report', 'point', 'run', 'system', 'proper', 'matter', 'resolution', 'double', 'appreciated', 'bad', 'cancer', 'access', 'tape', 'hey', 'monitors', 'request', 'information']
+----------------------------------------------------------------------
+h_num: 118
+w_h_top_words_indx: [ 753  237   26  309 1204  718  310 1307  932  263 1268  949 1343  136
+  742 1097 1151 1425  347  948]
+w_h_top_words:['machine', 'code', 'alexander', 'dave', 'space', 'library', 'david', 'ticket', 'performa', 'contact', 'systems', 'pipes', 'uiuc', 'brand', 'lost', 'rest', 'sell', 'works', 'directly', 'pin']
+----------------------------------------------------------------------
+h_num: 119
+w_h_top_words_indx: [  81  660 1053  336  917 1411 1172  272 1270  769  270  392  113  180
+ 1096  144  900  176 1405  671]
+w_h_top_words:['bad', 'jersey', 'reality', 'devil', 'part', 'widget', 'shea', 'correct', 'takes', 'man', 'copy', 'earth', 'bitmaps', 'catalog', 'responsible', 'buffalo', 'original', 'case', 'week', 'jonathan']
+----------------------------------------------------------------------
+h_num: 120
+w_h_top_words_indx: [ 621  473 1071  427  379 1411 1162  674   52 1437 1164 1188   93  232
+ 1130 1088  857  555 1227  260]
+w_h_top_words:['info', 'find', 'release', 'exe', 'driver', 'widget', 'set', 'jumper', 'appreciated', 'xlib', 'setup', 'simply', 'baud', 'close', 'sale', 'research', 'news', 'guess', 'status', 'connect']
+----------------------------------------------------------------------
+h_num: 121
+w_h_top_words_indx: [1195  855  239  998   52  758  237  338   49  508  881  650  851  973
+  628  114  548  913  257  233]
+w_h_top_words:['software', 'netters', 'color', 'print', 'appreciated', 'made', 'code', 'diamond', 'apple', 'fred', 'offers', 'items', 'needed', 'porto', 'install', 'bits', 'great', 'paper', 'condition', 'club']
+----------------------------------------------------------------------
+h_num: 122
+w_h_top_words_indx: [ 263 1437  353 1267 1367  285 1083  324  670 1064  459  126  150 1056
+   50  612  741 1248  824  391]
+w_h_top_words:['contact', 'xlib', 'disks', 'system', 'users', 'create', 'request', 'describing', 'jon', 'recommendations', 'fax', 'book', 'burn', 'reasonable', 'application', 'incident', 'loser', 'sun', 'monitor', 'early']
+----------------------------------------------------------------------
+h_num: 123
+w_h_top_words_indx: [ 306  723  639  481  135 1170 1443 1181 1367  953  298 1079 1382  440
+  629  294  401  327  540 1004]
+w_h_top_words:['data', 'lines', 'internet', 'fit', 'brain', 'shareware', 'years', 'side', 'users', 'pixel', 'cyrix', 'reply', 'video', 'expressed', 'installed', 'current', 'effects', 'desktop', 'good', 'problem']
+----------------------------------------------------------------------
+h_num: 124
+w_h_top_words_indx: [ 136 1281 1394 1356  126 1267  844   69  655  870  620 1311  664   64
+  675 1397  100  927  584  304]
+w_h_top_words:['brand', 'technical', 'wanted', 'upenn', 'book', 'system', 'multiple', 'atheists', 'japan', 'noticed', 'inf', 'time', 'jews', 'ascii', 'keith', 'warning', 'bell', 'paying', 'hitter', 'daniel']
+----------------------------------------------------------------------
+h_num: 125
+w_h_top_words_indx: [ 722  639  764  377  789  940 1326  853    3  846  191 1162  263  894
+ 1378   74 1281  293  667  928]
+w_h_top_words:['line', 'internet', 'maine', 'drive', 'means', 'phone', 'transfer', 'net', 'access', 'names', 'change', 'set', 'contact', 'opinions', 'verse', 'australia', 'technical', 'curious', 'joe', 'peace']
+----------------------------------------------------------------------
+h_num: 126
+w_h_top_words_indx: [1380  118  391 1316  961 1013 1047 1431 1422  209  198  141  621  970
+ 1267  636  177  627  317  872]
+w_h_top_words:['vesa', 'blue', 'early', 'today', 'players', 'program', 'read', 'writes', 'work', 'chip', 'charge', 'brown', 'info', 'pop', 'system', 'interested', 'cases', 'inside', 'dear', 'number']
+----------------------------------------------------------------------
+h_num: 127
+w_h_top_words_indx: [1317  808 1424  584  203  684    2  596 1292  564  965  953 1219  697
+  550 1149 1300  502 1397   26]
+w_h_top_words:['told', 'miles', 'working', 'hitter', 'check', 'kind', 'accepted', 'ibm', 'text', 'hard', 'points', 'pixel', 'stanford', 'larry', 'green', 'seek', 'thou', 'found', 'warning', 'alexander']
+----------------------------------------------------------------------
+h_num: 128
+w_h_top_words_indx: [1063  535 1240  898 1331  761   82  474  846 1043  632 1394  300  836
+  377  392  184   54 1130  760]
+w_h_top_words:['recommend', 'give', 'subject', 'org', 'true', 'mail', 'bag', 'finding', 'names', 'rangers', 'instructions', 'wanted', 'daily', 'motorcycles', 'drive', 'earth', 'cell', 'apr', 'sale', 'magazine']
+----------------------------------------------------------------------
+h_num: 129
+w_h_top_words_indx: [1382 1101  747   94  607  382  263 1000  810  706  176  824 1414  801
+  855  639 1236 1328  793 1034]
+w_h_top_words:['video', 'rgb', 'lower', 'bbs', 'image', 'drop', 'contact', 'printer', 'mind', 'lee', 'case', 'monitor', 'window', 'message', 'netters', 'internet', 'studio', 'trident', 'meg', 'question']
+----------------------------------------------------------------------
+h_num: 130
+w_h_top_words_indx: [1424  473 1032  800 1115 1154  624  191  353 1004  765  797  564  175
+ 1064 1267  200  589 1439  712]
+w_h_top_words:['working', 'find', 'put', 'menu', 'rom', 'send', 'information', 'change', 'disks', 'problem', 'major', 'memory', 'hard', 'cars', 'recommendations', 'system', 'charlie', 'honda', 'yankee', 'lets']
+----------------------------------------------------------------------
+h_num: 131
+w_h_top_words_indx: [  43  163 1357  789 1419  120  572   17  466  996 1154  610  136 1350
+ 1298  648  214  867  769  135]
+w_h_top_words:['answer', 'call', 'upgrade', 'means', 'wondering', 'bmw', 'hear', 'advice', 'file', 'price', 'send', 'important', 'brand', 'unit', 'thinking', 'issue', 'christian', 'nose', 'man', 'brain']
+----------------------------------------------------------------------
+h_num: 132
+w_h_top_words_indx: [1225  789  659  306  381   15  744  803  820 1035 1333  316  509  181
+ 1432 1102  753 1166 1368  879]
+w_h_top_words:['states', 'means', 'jerry', 'data', 'drives', 'advance', 'lots', 'mhz', 'model', 'questions', 'tube', 'dealers', 'free', 'catch', 'writing', 'rich', 'machine', 'shack', 'usl', 'obtain']
+----------------------------------------------------------------------
+h_num: 133
+w_h_top_words_indx: [1034  672  631 1385  410  367  236  846  556  148 1153   45 1267  379
+ 1235  919 1003 1391  489 1129]
+w_h_top_words:['question', 'joseph', 'institute', 'views', 'end', 'dos', 'cmu', 'names', 'guy', 'building', 'selling', 'anthony', 'system', 'driver', 'student', 'pascal', 'pro', 'wagon', 'follow', 'sage']
+----------------------------------------------------------------------
+h_num: 134
+w_h_top_words_indx: [ 624  658 1225  126  155 1252  809 1416  123  500  593   52 1286  119
+ 1092 1145  570  221  382  426]
+w_h_top_words:['information', 'jeff', 'states', 'book', 'button', 'support', 'million', 'wings', 'boards', 'forming', 'howard', 'appreciated', 'term', 'bmp', 'respond', 'sean', 'heading', 'cis', 'drop', 'excuse']
+----------------------------------------------------------------------
+h_num: 135
+w_h_top_words_indx: [1431  204 1218 1004  764  149  533 1103  658 1037  322 1032  872  517
+ 1245  548 1280  977  794 1267]
+w_h_top_words:['writes', 'cheers', 'standard', 'problem', 'maine', 'bunch', 'gif', 'richard', 'jeff', 'quote', 'department', 'put', 'number', 'galaxy', 'suggestions', 'great', 'tech', 'possibly', 'megs', 'system']
+----------------------------------------------------------------------
+h_num: 136
+w_h_top_words_indx: [ 257  425  136  163 1013  513  880 1229 1236   93   85  904  183  972
+  497  797 1359  459 1177   47]
+w_h_top_words:['condition', 'excellent', 'brand', 'call', 'program', 'ftp', 'offer', 'stereo', 'studio', 'baud', 'bar', 'package', 'cds', 'port', 'form', 'memory', 'upgrading', 'fax', 'show', 'apparently']
+----------------------------------------------------------------------
+h_num: 137
+w_h_top_words_indx: [1173  894  347  271  247  898 1195  779  695 1422  518   28  549  544
+  932  249  172  278 1056  232]
+w_h_top_words:['shipping', 'opinions', 'directly', 'corporation', 'companies', 'org', 'software', 'math', 'larc', 'work', 'game', 'algorithm', 'greatly', 'grand', 'performa', 'compare', 'cards', 'couldn', 'reasonable', 'close']
+----------------------------------------------------------------------
+h_num: 138
+w_h_top_words_indx: [ 548  666  314  135 1248  766 1297  613  795 1040  594   27  785  867
+  519  744   47  723   15  639]
+w_h_top_words:['great', 'job', 'deal', 'brain', 'sun', 'make', 'things', 'include', 'mehl', 'rain', 'hst', 'alfalfa', 'mattingly', 'nose', 'games', 'lots', 'apparently', 'lines', 'advance', 'internet']
+----------------------------------------------------------------------
+h_num: 139
+w_h_top_words_indx: [  61  135  916  767    3 1220  788  339 1386   72  447  780  110   18
+ 1399  122 1295 1044  389  533]
+w_h_top_words:['article', 'brain', 'park', 'makes', 'access', 'star', 'mazda', 'dick', 'virginia', 'audio', 'fact', 'mathew', 'bison', 'ago', 'watch', 'board', 'therapy', 'rao', 'duo', 'gif']
+----------------------------------------------------------------------
+h_num: 140
+w_h_top_words_indx: [  61 1142  851 1189  940  601  108  492  922  337 1200   11  968 1160
+ 1410  967  897 1227  554   45]
+w_h_top_words:['article', 'scsi', 'needed', 'site', 'phone', 'idea', 'bill', 'fonts', 'pat', 'diagnosed', 'sound', 'add', 'polygons', 'servers', 'white', 'polygon', 'order', 'status', 'groups', 'anthony']
+----------------------------------------------------------------------
+h_num: 141
+w_h_top_words_indx: [ 367  143  557  847 1174 1354 1301 1393  764  587  713  126   54 1445
+  678  552  302  203    9  627]
+w_h_top_words:['dos', 'bruins', 'guys', 'nasa', 'shit', 'update', 'thought', 'walter', 'maine', 'home', 'letter', 'book', 'apr', 'ysu', 'kevin', 'ground', 'dan', 'check', 'adam', 'inside']
+----------------------------------------------------------------------
+h_num: 142
+w_h_top_words_indx: [  19  657 1079 1164  285   61 1118  564 1157  775  111  421  963   22
+  844  646  888  589 1015 1131]
+w_h_top_words:['agree', 'jay', 'reply', 'setup', 'create', 'article', 'routine', 'hard', 'serial', 'marc', 'bit', 'european', 'point', 'aka', 'multiple', 'isn', 'opened', 'honda', 'programs', 'sam']
+----------------------------------------------------------------------
+h_num: 143
+w_h_top_words_indx: [ 627  901  930  251  406 1013 1261  896 1331 1431  284  612  811  856
+  468    7  502  281 1311  953]
+w_h_top_words:['inside', 'oscs', 'pens', 'compile', 'email', 'program', 'susan', 'orbit', 'true', 'writes', 'crash', 'incident', 'mine', 'network', 'fill', 'action', 'found', 'couple', 'time', 'pixel']
+----------------------------------------------------------------------
+h_num: 144
+w_h_top_words_indx: [ 587  553 1411  684  229 1079   26   15   51  248 1410  940  143  494
+  522  777 1405 1269  883 1143]
+w_h_top_words:['home', 'group', 'widget', 'kind', 'clinton', 'reply', 'alexander', 'advance', 'applied', 'company', 'white', 'phone', 'bruins', 'force', 'gas', 'market', 'week', 'table', 'oil', 'sdsu']
+----------------------------------------------------------------------
+h_num: 145
+w_h_top_words_indx: [ 761   54 1077 1331  309   33  450  811  540  921  716  314 1389  701
+ 1112  982   17   44  157  604]
+w_h_top_words:['mail', 'apr', 'replacement', 'true', 'dave', 'andrew', 'familiar', 'mine', 'good', 'past', 'levine', 'deal', 'voice', 'latest', 'robert', 'posts', 'advice', 'answering', 'buying', 'iii']
+----------------------------------------------------------------------
+h_num: 146
+w_h_top_words_indx: [ 624  473 1394  599  684   59  595  364  638  953 1161 1112  962 1168
+  830 1348  781  488 1300  191]
+w_h_top_words:['information', 'find', 'wanted', 'ics', 'kind', 'area', 'hughes', 'dod', 'internal', 'pixel', 'service', 'robert', 'playoff', 'shape', 'moon', 'understanding', 'matrix', 'folks', 'thou', 'change']
+----------------------------------------------------------------------
+h_num: 147
+w_h_top_words_indx: [ 808  440  185   10  940  171 1209 1420  209  811  777  383  709  562
+  391  306  257 1413  615  728]
+w_h_top_words:['miles', 'expressed', 'center', 'adaptor', 'phone', 'card', 'speakers', 'word', 'chip', 'mine', 'market', 'drug', 'legend', 'happened', 'early', 'data', 'condition', 'win', 'includes', 'local']
+----------------------------------------------------------------------
+h_num: 148
+w_h_top_words_indx: [1238 1154  978  825  328 1130  511 1223  710  155  170  858 1133  599
+  554  745 1164  109  582  549]
+w_h_top_words:['stupid', 'send', 'post', 'monitors', 'details', 'sale', 'friend', 'starts', 'lehigh', 'button', 'car', 'newsgroup', 'san', 'ics', 'groups', 'love', 'setup', 'bios', 'history', 'greatly']
+----------------------------------------------------------------------
+h_num: 149
+w_h_top_words_indx: [ 866 1052 1182  132  459 1129  589 1357  568  579  187  115  191  237
+ 1127 1174 1220  941 1186 1279]
+w_h_top_words:['norton', 'real', 'sign', 'box', 'fax', 'sage', 'honda', 'upgrade', 'haven', 'high', 'centris', 'black', 'change', 'code', 'ryan', 'shit', 'star', 'physics', 'simms', 'teams']
+----------------------------------------------------------------------
+h_num: 150
+w_h_top_words_indx: [ 245  666 1394  863   50 1426 1298  426  591  294  308  639 1433  188
+  161 1168  270  724  632   61]
+w_h_top_words:['comments', 'job', 'wanted', 'niv', 'application', 'workstation', 'thinking', 'excuse', 'hope', 'current', 'date', 'internet', 'written', 'chad', 'cage', 'shape', 'copy', 'list', 'instructions', 'article']
+----------------------------------------------------------------------
+h_num: 151
+w_h_top_words_indx: [  56  302  136  918 1414 1035 1194 1205 1294  485 1159 1079  306   15
+  212  308  251 1225 1415  407]
+w_h_top_words:['archie', 'dan', 'brand', 'parts', 'window', 'questions', 'small', 'sparc', 'tga', 'floppy', 'server', 'reply', 'data', 'advance', 'choice', 'date', 'compile', 'states', 'windows', 'emulator']
+----------------------------------------------------------------------
+h_num: 152
+w_h_top_words_indx: [1311  339   87 1218  766  285  175  388  720  730 1076 1411  209  157
+  379 1422  697  250  904  783]
+w_h_top_words:['time', 'dick', 'baseball', 'standard', 'make', 'create', 'cars', 'dumb', 'life', 'location', 'replace', 'widget', 'chip', 'buying', 'driver', 'work', 'larry', 'compatible', 'package', 'matter']
+----------------------------------------------------------------------
+h_num: 153
+w_h_top_words_indx: [1189  310 1047  477  588  377  201 1385 1034   81  981  134  334  123
+  874  185  969  977  857 1284]
+w_h_top_words:['site', 'david', 'read', 'finish', 'homeruns', 'drive', 'cheap', 'views', 'question', 'bad', 'posting', 'brad', 'device', 'boards', 'nyc', 'center', 'pool', 'possibly', 'news', 'ten']
+----------------------------------------------------------------------
+h_num: 154
+w_h_top_words_indx: [ 243  166 1310  561  455  724  976 1204   43  592  715  568  379  655
+  440 1441 1364 1322  380 1110]
+w_h_top_words:['command', 'canada', 'tigers', 'happen', 'faq', 'list', 'positive', 'space', 'answer', 'house', 'level', 'haven', 'driver', 'japan', 'expressed', 'yeah', 'usd', 'toronto', 'drivers', 'road']
+----------------------------------------------------------------------
+h_num: 155
+w_h_top_words_indx: [ 171  383  199 1201 1041  932   49  638  144 1111  345 1422  824 1054
+ 1419  789  391  651  599  625]
+w_h_top_words:['card', 'drug', 'charles', 'sounds', 'ram', 'performa', 'apple', 'internal', 'buffalo', 'rob', 'direct', 'work', 'monitor', 'rear', 'wondering', 'means', 'early', 'jack', 'ics', 'inject']
+----------------------------------------------------------------------
+h_num: 156
+w_h_top_words_indx: [1433  721  183  742 1301  202  418  293 1393  602 1443  727  137  175
+  297 1431  309   83  116 1367]
+w_h_top_words:['written', 'light', 'cds', 'lost', 'thought', 'cheaper', 'eric', 'curious', 'walter', 'ideas', 'years', 'live', 'break', 'cars', 'cwru', 'writes', 'dave', 'ball', 'blame', 'users']
+----------------------------------------------------------------------
+h_num: 157
+w_h_top_words_indx: [1100  197 1111  679  669  172  301  220  593  414  340 1187  557 1427
+  804  371  608  142 1038  777]
+w_h_top_words:['review', 'characters', 'rob', 'key', 'johnson', 'cards', 'dal', 'circuit', 'howard', 'environment', 'die', 'simple', 'guys', 'world', 'michael', 'doug', 'images', 'bruce', 'radar', 'market']
+----------------------------------------------------------------------
+h_num: 158
+w_h_top_words_indx: [ 309 1424  981  738  854  437  313  213  314   52  126  523  679  453
+  982  367 1218  750   59  934]
+w_h_top_words:['dave', 'working', 'posting', 'lord', 'netcom', 'experiences', 'dead', 'chris', 'deal', 'appreciated', 'book', 'gatech', 'key', 'fancy', 'posts', 'dos', 'standard', 'lynx', 'area', 'person']
+----------------------------------------------------------------------
+h_num: 159
+w_h_top_words_indx: [ 542 1186 1278 1046 1413  859  368 1381   41  221  569  425  824  328
+ 1028  222  263   54  427  781]
+w_h_top_words:['gov', 'simms', 'team', 'reach', 'win', 'nhl', 'dot', 'vga', 'anonymous', 'cis', 'head', 'excellent', 'monitor', 'details', 'published', 'city', 'contact', 'apr', 'exe', 'matrix']
+----------------------------------------------------------------------
+h_num: 160
+w_h_top_words_indx: [ 857  739  586 1055 1424  247  112  126 1438   52 1419 1367  380 1011
+ 1226  634 1360  868  347 1227]
+w_h_top_words:['news', 'los', 'hold', 'reason', 'working', 'companies', 'bitmap', 'book', 'xterm', 'appreciated', 'wondering', 'users', 'drivers', 'product', 'stats', 'intel', 'upload', 'note', 'directly', 'status']
+----------------------------------------------------------------------
+h_num: 161
+w_h_top_words_indx: [ 426  589  725 1441  754  743  199  556   59  668  698  181 1386  537
+  673  388  317 1372  879 1187]
+w_h_top_words:['excuse', 'honda', 'listen', 'yeah', 'machines', 'lot', 'charles', 'guy', 'area', 'john', 'laser', 'catch', 'virginia', 'god', 'jump', 'dumb', 'dear', 'uva', 'obtain', 'simple']
+----------------------------------------------------------------------
+h_num: 162
+w_h_top_words_indx: [1425 1047  978  211  184  424 1276 1123  554 1049  333 1018 1407  324
+ 1070  526 1073  425 1376    7]
+w_h_top_words:['works', 'read', 'post', 'chipset', 'cell', 'evidence', 'targa', 'running', 'groups', 'readers', 'developed', 'projects', 'wells', 'describing', 'reflect', 'general', 'religion', 'excellent', 'vax', 'action']
+----------------------------------------------------------------------
+h_num: 163
+w_h_top_words_indx: [1419  214 1420  131  607  535   19 1066 1195  303  587 1124   36  376
+ 1078   40  809 1218 1391  126]
+w_h_top_words:['wondering', 'christian', 'word', 'bout', 'image', 'give', 'agree', 'red', 'software', 'dangerous', 'home', 'runs', 'angry', 'dresden', 'replies', 'annoying', 'million', 'standard', 'wagon', 'book']
+----------------------------------------------------------------------
+h_num: 164
+w_h_top_words_indx: [1316  770 1217  294  466 1157 1395 1145  435  192  879  390  628  481
+  467  298  387  857  203  893]
+w_h_top_words:['today', 'manager', 'stadium', 'current', 'file', 'serial', 'wanting', 'sean', 'expensive', 'changed', 'obtain', 'earlier', 'install', 'fit', 'files', 'cyrix', 'duke', 'news', 'check', 'opinion']
+----------------------------------------------------------------------
+h_num: 165
+w_h_top_words_indx: [1431  415   54 1218  742 1405 1408  285  780  117 1313  193 1312  252
+  651  309 1357  738  758 1412]
+w_h_top_words:['writes', 'eprom', 'apr', 'standard', 'lost', 'week', 'west', 'create', 'mathew', 'blessed', 'tip', 'changing', 'times', 'complete', 'jack', 'dave', 'upgrade', 'lord', 'made', 'widgets']
+----------------------------------------------------------------------
+h_num: 166
+w_h_top_words_indx: [1218  264 1124   54 1047  573  851  707  766 1384 1311 1439 1392 1374
+  662  804 1415  776  118  291]
+w_h_top_words:['standard', 'contained', 'runs', 'apr', 'read', 'heard', 'needed', 'left', 'make', 'viewer', 'time', 'yankee', 'wait', 'van', 'jet', 'michael', 'windows', 'mark', 'blue', 'cubs']
+----------------------------------------------------------------------
+h_num: 167
+w_h_top_words_indx: [1413  621  515 1419 1124  401 1068  836  535 1317 1252  124   15  861
+  761  236  166  920  548 1318]
+w_h_top_words:['win', 'info', 'fun', 'wondering', 'runs', 'effects', 'reference', 'motorcycles', 'give', 'told', 'support', 'bob', 'advance', 'nikkor', 'mail', 'cmu', 'canada', 'passed', 'great', 'tom']
+----------------------------------------------------------------------
+h_num: 168
+w_h_top_words_indx: [ 255  916 1099  831  261  801 1439  157  789  671  615  124 1144 1191
+  112  109 1058  438 1163  949]
+w_h_top_words:['computer', 'park', 'return', 'moral', 'connected', 'message', 'yankee', 'buying', 'means', 'jonathan', 'includes', 'bob', 'seagate', 'size', 'bitmap', 'bios', 'recall', 'explain', 'settings', 'pipes']
+----------------------------------------------------------------------
+h_num: 169
+w_h_top_words_indx: [1425  518  257  631  383 1136  646 1088  436 1004  510  931  437 1111
+  978  275  918  921  979 1001]
+w_h_top_words:['works', 'game', 'condition', 'institute', 'drug', 'save', 'isn', 'research', 'experience', 'problem', 'freenet', 'people', 'experiences', 'rob', 'post', 'cosmo', 'parts', 'past', 'posted', 'printing']
+----------------------------------------------------------------------
+h_num: 170
+w_h_top_words_indx: [ 722  725  989 1165 1291 1078  624   15  935  764  688  761 1033   43
+  170  888  636  813  220  678]
+w_h_top_words:['line', 'listen', 'preferably', 'sgi', 'texas', 'replies', 'information', 'advance', 'personal', 'maine', 'knew', 'mail', 'quality', 'answer', 'car', 'opened', 'interested', 'minor', 'circuit', 'kevin']
+----------------------------------------------------------------------
+h_num: 171
+w_h_top_words_indx: [1311 1346 1408 1005  586 1044 1377  564  209  513 1254  569 1163  230
+  681 1438  642 1178  405  443]
+w_h_top_words:['time', 'unable', 'west', 'problems', 'hold', 'rao', 'ver', 'hard', 'chip', 'ftp', 'supporters', 'head', 'settings', 'clipper', 'keys', 'xterm', 'irs', 'shrink', 'eliot', 'extra']
+----------------------------------------------------------------------
+h_num: 172
+w_h_top_words_indx: [1052   85 1380  799 1099  187 1182  422  736 1098  542  795 1153  580
+ 1037  761  603  892  309 1084]
+w_h_top_words:['real', 'bar', 'vesa', 'mentioned', 'return', 'centris', 'sign', 'eve', 'looked', 'results', 'gov', 'mehl', 'selling', 'higher', 'quote', 'mail', 'ignore', 'operation', 'dave', 'require']
+----------------------------------------------------------------------
+h_num: 173
+w_h_top_words_indx: [ 312  716  654 1378 1443  512  548 1171  175  492  708  302  336  719
+  157  434  715 1027  411  928]
+w_h_top_words:['days', 'levine', 'jamie', 'verse', 'years', 'front', 'great', 'shawn', 'cars', 'fonts', 'legal', 'dan', 'devil', 'license', 'buying', 'expect', 'level', 'publicity', 'engineering', 'peace']
+----------------------------------------------------------------------
+h_num: 174
+w_h_top_words_indx: [ 141  724  215 1389  579  249 1333  943  390 1162  935    4  341  557
+ 1310 1183  313   91 1378 1433]
+w_h_top_words:['brown', 'list', 'christianity', 'voice', 'high', 'compare', 'tube', 'picks', 'earlier', 'set', 'personal', 'account', 'difference', 'guys', 'tigers', 'signature', 'dead', 'batf', 'verse', 'written']
+----------------------------------------------------------------------
+h_num: 175
+w_h_top_words_indx: [1431  515  165  429  434 1103   65  982  564  317 1335  719 1427  812
+  447  903 1019  896 1199  682]
+w_h_top_words:['writes', 'fun', 'calls', 'exist', 'expect', 'richard', 'asked', 'posts', 'hard', 'dear', 'turbo', 'license', 'world', 'ming', 'fact', 'owners', 'promise', 'orbit', 'soul', 'keywords']
+----------------------------------------------------------------------
+h_num: 176
+w_h_top_words_indx: [ 176  406  410 1152  624  928  488 1334  448  951  163 1148  870  206
+  820  742  494 1151  178  743]
+w_h_top_words:['case', 'email', 'end', 'seller', 'information', 'peace', 'folks', 'tuesday', 'faith', 'pitching', 'call', 'seattle', 'noticed', 'chicago', 'model', 'lost', 'force', 'sell', 'cassette', 'lot']
+----------------------------------------------------------------------
+h_num: 177
+w_h_top_words_indx: [ 125  994  587 1035  894 1104  776   30  783  420  270 1296 1088   93
+ 1024  566  146 1408 1003  578]
+w_h_top_words:['body', 'pretty', 'home', 'questions', 'opinions', 'rick', 'mark', 'amiga', 'matter', 'europe', 'copy', 'thing', 'research', 'baud', 'prozac', 'harm', 'bugs', 'west', 'pro', 'hey']
+----------------------------------------------------------------------
+h_num: 178
+w_h_top_words_indx: [   7   13 1167  844 1440   52 1422  838  350  834  591 1314 1326  271
+  171 1040 1170  657 1199 1366]
+w_h_top_words:['action', 'address', 'shading', 'multiple', 'yankees', 'appreciated', 'work', 'mouse', 'discussion', 'motif', 'hope', 'title', 'transfer', 'corporation', 'card', 'rain', 'shareware', 'jay', 'soul', 'user']
+----------------------------------------------------------------------
+h_num: 179
+w_h_top_words_indx: [ 639  851   31  418  758  436  411  902  352  377 1431  999 1016 1135
+   92  160   60  705  722  692]
+w_h_top_words:['internet', 'needed', 'andi', 'eric', 'made', 'experience', 'engineering', 'owner', 'disk', 'drive', 'writes', 'printed', 'project', 'satellite', 'battery', 'cache', 'areas', 'leave', 'line', 'lack']
+----------------------------------------------------------------------
+h_num: 180
+w_h_top_words_indx: [1076 1394  144  498  455  431  601  718 1248   61  836  715  657  569
+    8  152  858  202 1217  358]
+w_h_top_words:['replace', 'wanted', 'buffalo', 'format', 'faq', 'exists', 'idea', 'library', 'sun', 'article', 'motorcycles', 'level', 'jay', 'head', 'actual', 'bus', 'newsgroup', 'cheaper', 'stadium', 'dlc']
+----------------------------------------------------------------------
+h_num: 181
+w_h_top_words_indx: [ 868 1425 1237 1204 1394  160  338 1283  667  803  815  725  351  777
+ 1073 1405 1105  731  353 1120]
+w_h_top_words:['note', 'works', 'stuff', 'space', 'wanted', 'cache', 'diamond', 'technology', 'joe', 'mhz', 'minutes', 'listen', 'disease', 'market', 'religion', 'week', 'rid', 'logic', 'disks', 'rule']
+----------------------------------------------------------------------
+h_num: 182
+w_h_top_words_indx: [1347  122  383  163 1138  810  766   43 1190 1177  568 1378  488  191
+ 1427  476  722  890  707  723]
+w_h_top_words:['understand', 'board', 'drug', 'call', 'school', 'mind', 'make', 'answer', 'sites', 'show', 'haven', 'verse', 'folks', 'change', 'world', 'finger', 'line', 'opening', 'left', 'lines']
+----------------------------------------------------------------------
+h_num: 183
+w_h_top_words_indx: [ 127 1431  779 1031 1173 1419  974  699  803  294 1090 1162  448 1326
+ 1299  915 1007  859  996  454]
+w_h_top_words:['books', 'writes', 'math', 'purdue', 'shipping', 'wondering', 'ports', 'laserjet', 'mhz', 'current', 'resolutions', 'set', 'faith', 'transfer', 'thomas', 'parametric', 'process', 'nhl', 'price', 'fans']
+----------------------------------------------------------------------
+h_num: 184
+w_h_top_words_indx: [  35  540  596  567 1144  156 1213  776  266 1212  777  909  537  810
+  913 1111  242  881 1192  987]
+w_h_top_words:['angmar', 'good', 'ibm', 'hate', 'seagate', 'buy', 'speed', 'mark', 'controller', 'specs', 'market', 'pain', 'god', 'mind', 'paper', 'rob', 'columbia', 'offers', 'slot', 'pref']
+----------------------------------------------------------------------
+h_num: 185
+w_h_top_words_indx: [1204  118  425 1424  556 1403  119 1307  629  104  959   89  963  918
+  132  582  886 1093  180  428]
+w_h_top_words:['space', 'blue', 'excellent', 'working', 'guy', 'wearing', 'bmp', 'ticket', 'installed', 'big', 'play', 'baseman', 'point', 'parts', 'box', 'history', 'oops', 'responded', 'catalog', 'executable']
+----------------------------------------------------------------------
+h_num: 186
+w_h_top_words_indx: [ 684  786 1309  672 1057 1430  172  824  211  415 1361 1141  736  271
+  489  543 1419  111 1432  318]
+w_h_top_words:['kind', 'max', 'tiff', 'joseph', 'reasons', 'write', 'cards', 'monitor', 'chipset', 'eprom', 'upper', 'screen', 'looked', 'corporation', 'follow', 'government', 'wondering', 'bit', 'writing', 'death']
+----------------------------------------------------------------------
+h_num: 187
+w_h_top_words_indx: [1035 1251   52  275  769  992   94  624  591  761  762  985   60  272
+  248 1037 1043 1268    8  191]
+w_h_top_words:['questions', 'supply', 'appreciated', 'cosmo', 'man', 'president', 'bbs', 'information', 'hope', 'mail', 'mailing', 'power', 'areas', 'correct', 'company', 'quote', 'rangers', 'systems', 'actual', 'change']
+----------------------------------------------------------------------
+h_num: 188
+w_h_top_words_indx: [1415 1195 1079  723  472 1076  484  214  853  249 1027  322 1269  235
+  717  670  302 1239  630  422]
+w_h_top_words:['windows', 'software', 'reply', 'lines', 'finals', 'replace', 'fli', 'christian', 'net', 'compare', 'publicity', 'department', 'table', 'clutch', 'libraries', 'jon', 'dan', 'style', 'installing', 'eve']
+----------------------------------------------------------------------
+h_num: 189
+w_h_top_words_indx: [ 406 1267  126 1142  925  772  396  639 1117  743  898  501 1127  696
+  417  559  641  621   54 1130]
+w_h_top_words:['email', 'system', 'book', 'scsi', 'paul', 'manuals', 'ece', 'internet', 'roster', 'lot', 'org', 'forsale', 'ryan', 'large', 'ere', 'handle', 'involved', 'info', 'apr', 'sale']
+----------------------------------------------------------------------
+h_num: 190
+w_h_top_words_indx: [ 724  460   17   51  193  364  818  411  548 1311  310  874 1188  425
+  455 1365  741  870  120 1168]
+w_h_top_words:['list', 'fear', 'advice', 'applied', 'changing', 'dod', 'mit', 'engineering', 'great', 'time', 'david', 'nyc', 'simply', 'excellent', 'faq', 'usenet', 'loser', 'noticed', 'bmw', 'shape']
+----------------------------------------------------------------------
+h_num: 191
+w_h_top_words_indx: [1393  361  297 1314  855  645 1255 1423   33  937  424  115  476  957
+  908  459  480  509  535  440]
+w_h_top_words:['walter', 'doctor', 'cwru', 'title', 'netters', 'island', 'supporting', 'worked', 'andrew', 'peter', 'evidence', 'black', 'finger', 'plans', 'paid', 'fax', 'firstclass', 'free', 'give', 'expressed']
+----------------------------------------------------------------------
+h_num: 192
+w_h_top_words_indx: [1122  825  886 1121  335 1422 1311  786  607  564  910  219   70  547
+  108  805   56  844 1206 1386]
+w_h_top_words:['run', 'monitors', 'oops', 'rumor', 'devices', 'work', 'time', 'max', 'image', 'hard', 'paint', 'cica', 'ati', 'grayscale', 'bill', 'microsoft', 'archie', 'multiple', 'spare', 'virginia']
+----------------------------------------------------------------------
+h_num: 193
+w_h_top_words_indx: [ 894 1443  629 1237  827  646  728 1172  492  568  462  371   15  558
+  139  556  603  157  216 1204]
+w_h_top_words:['opinions', 'years', 'installed', 'stuff', 'month', 'isn', 'local', 'shea', 'fonts', 'haven', 'feet', 'doug', 'advance', 'hall', 'bring', 'guy', 'ignore', 'buying', 'christians', 'space']
+----------------------------------------------------------------------
+h_num: 194
+w_h_top_words_indx: [1000  435  942  187 1213 1240  751 1415  759  932 1298  624  172  189
+  385  628 1376  574  560   28]
+w_h_top_words:['printer', 'expensive', 'pick', 'centris', 'speed', 'subject', 'mac', 'windows', 'mag', 'performa', 'thinking', 'information', 'cards', 'challenge', 'dsp', 'install', 'vax', 'heart', 'hands', 'algorithm']
+----------------------------------------------------------------------
+h_num: 195
+w_h_top_words_indx: [1431 1123  862  222  758  123 1192  706  309  783  887 1381 1235 1032
+ 1226  895  583 1130 1422  545]
+w_h_top_words:['writes', 'running', 'nissan', 'city', 'made', 'boards', 'slot', 'lee', 'dave', 'matter', 'open', 'vga', 'student', 'put', 'stats', 'option', 'hit', 'sale', 'work', 'graphic']
+----------------------------------------------------------------------
+h_num: 196
+w_h_top_words_indx: [1411  587  661  367  137 1013  115 1052 1057  804  767  312  532  860
+  550 1297  489 1202  740 1373]
+w_h_top_words:['widget', 'home', 'jesus', 'dos', 'break', 'program', 'black', 'real', 'reasons', 'michael', 'makes', 'days', 'german', 'nice', 'green', 'things', 'follow', 'source', 'lose', 'values']
+----------------------------------------------------------------------
+h_num: 197
+w_h_top_words_indx: [  61   15   52 1311  231  564  477 1371  222  466 1386   65 1372   62
+  503  801  112  882 1168  268]
+w_h_top_words:['article', 'advance', 'appreciated', 'time', 'clock', 'hard', 'finish', 'uunet', 'city', 'file', 'virginia', 'asked', 'uva', 'articles', 'fractals', 'message', 'bitmap', 'official', 'shape', 'converter']
+----------------------------------------------------------------------
+h_num: 198
+w_h_top_words_indx: [  13  607  285 1408  549  639  984  433  857   41  251  830 1112 1139
+  705  926  778  506  899  534]
+w_h_top_words:['address', 'image', 'create', 'west', 'greatly', 'internet', 'pov', 'expansion', 'news', 'anonymous', 'compile', 'moon', 'robert', 'sci', 'leave', 'pay', 'martin', 'francisco', 'origin', 'gifs']
+----------------------------------------------------------------------
+h_num: 199
+w_h_top_words_indx: [ 144  961 1297  278 1036 1047 1428   94  347 1050  314  882  558  455
+  540    3  388  488  801  543]
+w_h_top_words:['buffalo', 'players', 'things', 'couldn', 'quick', 'read', 'wouldn', 'bbs', 'directly', 'reading', 'deal', 'official', 'hall', 'faq', 'good', 'access', 'dumb', 'folks', 'message', 'government']
+----------------------------------------------------------------------
